@@ -16,9 +16,11 @@
   </a>
 </p>
 
-# Contents
+# Contents(Customed for myself)
 
 - [Summary](#summary)
+- [Preparation](#preparation)
+  - High School Algebra
 - [Curriculum](#curriculum)
   - [Prerequisites](#prerequisites)
   - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -92,6 +94,7 @@ just remember that you can't purchase success!
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
+- [Preparation](#preparation)
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
   - [Core programming](#core-programming)
@@ -117,6 +120,12 @@ Some high school graduates will have already taken AP Calculus, but this is usua
 - [Advanced CS](#advanced-cs) assumes the student has already taken the entirety of Core CS
 and is knowledgeable enough now to decide which electives to take.
 - Note that [Advanced systems](#advanced-systems) assumes the student has taken a basic physics course (e.g. AP Physics in high school).
+
+## Preparation
+
+This corse will review the basis of high school algebra.
+
+[High School Algebra Curriculum](https://www.mathsisfun.com/links/curriculum-high-school-algebra.html)
 
 ## Introduction to Computer Science
 
